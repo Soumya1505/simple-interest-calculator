@@ -1,2 +1,3 @@
-# simple-interest-calculator
-A simple bash script to calculate simple interest.
+# Simple Interest Calculator
+This project calculates simple interest based on user inputs.
+
